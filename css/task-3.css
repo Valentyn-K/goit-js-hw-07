@@ -1,0 +1,15 @@
+#gallery {
+  display: flex;
+  /* flex-direction: row; */
+  /* justify-content: sacebetween; */
+  /* flex-direction: row-reverse; */
+}
+
+.gallery__item {
+  list-style: none;
+}
+
+.gallery__item-image {
+  width: 200px;
+  height: auto;
+}
